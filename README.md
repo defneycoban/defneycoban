@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Defne!
+## 💫 Hi, I'm Defne!
 
 🎓 I’m an undergrad at Brandeis University studying Computational Linguistics.
 
