@@ -1,18 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Defne!
+
+🎓 I’m an undergrad at Brandeis University studying Computational Linguistics.
+
+🔍 I’m passionate about exploring the intersection of language and data.
 
 <!--
-**defneycoban/defneycoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Current Projects:
+- 🍲 **Cookbook Project:** Creating a comprehensive gourmet cookbook from a large dataset of recipes.
+- 💻 **Concurrent Unix Shell in Java:** Implementing a concurrent shell using threads for my class project.
 -->
+🛠️ Skills:
+- Python, Java, SQL, Google Apps Script
+- NLP, Data Analysis, Machine Learning
 
-Hi I'm Defne. I am an undergrad at Brandeis University interested in Computational Linguistics and Data Science
+🌱 Always learning and growing!
