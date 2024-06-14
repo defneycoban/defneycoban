@@ -10,7 +10,8 @@
 - 💻 **Concurrent Unix Shell in Java:** Implementing a concurrent shell using threads for my class project.
 -->
 🛠️ Skills:
-- Python, Java, SQL, Google Apps Script
-- NLP, Data Analysis, Machine Learning
+- Python, Java, SQL, MATLAB
+- Pytorch, Numpy, Pandas, Matplotlib, Scipy, Sklearn
+- Bilingual in English & Turkish, Proficient in German
 
-🌱 Always learning and growing!
+🌱 Currently in the process of organizing my past projects here and building a data science portfolio
