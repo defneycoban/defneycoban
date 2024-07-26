@@ -15,4 +15,5 @@
 - Bilingual in English & Turkish, Proficient in German
 
 🌱 Currently in the process of organizing my past projects here and building a data science portfolio. 
+
 🍀 You can reach me @defneyasemincoban@gmail.com
